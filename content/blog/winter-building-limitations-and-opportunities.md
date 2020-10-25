@@ -6,11 +6,11 @@ draft: false
 
 Description: "In this blog post, we will review the various winter building limitations and opportunties to consider with residential construction projects."
 
-hero_image_large: 'IMG_5322.jpg'
+hero_image_large: '/IMG_5322.jpg'
 
 hero_image_large_height: '1800'
 
-hero_image_small: 'IMG_5322.jpg'
+hero_image_small: '/IMG_5322.jpg'
 
 hero_image_small_width: '600'
 
@@ -18,7 +18,7 @@ hero_image_small_height: '900'
 
 author: 'Jerome Graber'
 
-featured_image: 'IMG_5322.jpg'
+featured_image: '/IMG_5322.jpg'
 
 featured_image_width: '3219'
 
@@ -75,32 +75,4 @@ So what kind of jobs can be readily done in the winter months? More than you mig
 
 Armed with this information, you can guard yourself against the pitfalls of winter construction projects, as well as take advantage of the potential opportunities that the winter months in the Midwest bring. 
 
-<amp-carousel id="custom-button"
-  width="700"
-  height="525"
-  layout="responsive"
-  type="slides"
-  autoplay
-  delay="2000">
-  <amp-img src="/old-computer-152.jpg"
-    width="700"
-    height="525"
-    layout="responsive"
-    alt="Image of a custom kitchen remodel"></amp-img>
-  <amp-img src="/warehouse-finishing-pic.jpg"
-    width="700"
-    height="525"
-    layout="responsive"
-    alt="Photo of a Warehouse Project being finished during the winter months in Fort Wayne Indiana"></amp-img>
-  <amp-img src="/deck-under-construction-01.jpg"
-    width="700"
-    height="525"
-    layout="responsive"
-    alt=" Image of a deck replacement project in Fort Wayne Indiana in the winter months"></amp-img>
-  <amp-img src="/basement-finished-during-winter.jpg"
-    width="700"
-    height="525"
-    layout="responsive"
-    alt="Image of a basement remodel construction project in Fort Wayne, Indiana during winter"></amp-img>
-</amp-carousel>
-
+{{< cta >}}
