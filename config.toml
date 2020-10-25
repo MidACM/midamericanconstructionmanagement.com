@@ -1,0 +1,32 @@
+baseURL = "https://midamericanconstructionmanagement.com/"
+languageCode = "en-us"
+title = "Mid American Construction Management"
+theme = "ampradix"
+disableHugoGeneratorInject =  true
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  logo = ""
+  favicon = "favicon.ico"
+  description = "Construction services including windows, doors, roofing, gutters and siding in Fort Wayne, Indiana. We offer free estimates, call today (260) 438-8357."
+  facebook = "midamericanconstructionmanagement"
+  twitter = "MidAmericanCons"
+  facebookAppId = "231526881059111"
+  instagram = "midamericanconstructionmanagem"
+  featured_image = "featured-image-guy.jpg" # Image size is 1500x500
+  themeColor = "#136345"
+  businessName = "Mid American Construction Management"
+  businessPhone = "260.483.8357"
+  businessAddress = "1774 Co Rd 68"
+  businessCity = "Auburn"
+  businessState = "Indiana"
+  businessZip = "46706"
+  # Google Analitycs
+  googleAnalitycsID = "UA-106177064-1"

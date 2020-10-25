@@ -1,0 +1,57 @@
+{{ define "main "}}
+<br>
+<h1 class="h2 col-10 mx4 pb3 pt3">{{ .Title }}</h1>
+{{ .Content | replaceRE "<p>" "<p class=\"my2 px3\">" | safeHTML }}
+<p class="col-6 mx4 pb1 pt1">  <span>Click Image for Gallery</span>
+<amp-img lightbox="hero"
+  src="/{{ .Params.featured_image }}"
+  width="400"
+  height="300"
+  layout="responsive">
+
+</amp-img>
+
+<div hidden>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image1 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image2 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image3 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image4 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image5 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image6 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image7 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+  <amp-img lightbox="hero"
+    src="/{{ .Params.structured_image8 }}"
+    layout="responsive"
+    width="400"
+    height="710"></amp-img>
+</div>
+</p>
+{{ end }}

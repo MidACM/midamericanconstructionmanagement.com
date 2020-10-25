@@ -1,0 +1,20 @@
+<!doctype html>
+
+<html ⚡="">
+
+    {{- partial "head.html" . -}}
+
+    <body>
+
+        {{- partial "header.html" . -}}
+
+        {{- block "main" . }}{{- end }}
+
+        {{- partial "footer.html" . -}}
+        
+        <amp-install-serviceworker src="../../sw.js" layout="nodisplay" data-iframe-src="../../install-service-worker.html">
+    	</amp-install-serviceworker>
+
+    </body>
+
+</html>

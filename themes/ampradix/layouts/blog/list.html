@@ -1,0 +1,43 @@
+<!doctype html>
+<html ⚡="">
+
+{{- partial "blog-list-head.html" . -}}
+
+<body>
+
+{{- partial "blog-header.html" . -}}
+
+
+  <main id="content">
+  <div class=" ml4 pb1 pt1">{{ .Content }}</div>
+  <div class="mb4"></div>
+  
+    {{ range .Pages }}
+    <a href="{{ .URL }}" class=" col-10 ml3 pb1 pt1 text-decoration-none">
+    <div class="clearfix mb2 ">
+      <!-- <div class="left p2 mr1 ">
+        <amp-img class="fit xs-hide" src="{{ .Params.featured_image  | safeHTML }}" width="{{ .Params.featured_image_width }}" height="{{ .Params.featured_image_height }}" alt="{{ .Title }} Image" title="{{ .Title }}" ></amp-img>
+      </div> -->
+      <div class="overflow-hidden">
+        <h2 class="h3 mx4 pt2 pb2">{{ .Title }}</h2>
+        <p class="mx4 pb2">{{ .Params.Description }}</p>
+        <div class="mx4">
+          <button class="ampstart-btn ampstart-btn-secondary">
+            READ ARTICLE
+          </button>
+        </div>
+      </div>
+    </div>
+    </a>
+    {{ end }}
+    
+  </main> 
+
+
+    {{- partial "blog-footer.html" . -}}
+
+    {{- partial "analytics.html" . -}}
+
+  </body>
+</html>
+

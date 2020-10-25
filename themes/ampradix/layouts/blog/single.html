@@ -1,0 +1,75 @@
+<!doctype html>
+<html ⚡="">
+
+{{- partial "blog-head.html" . -}}
+
+<body>
+
+{{- partial "blog-header.html" . -}}
+
+
+  <!-- Start Fullpage Hero -->
+  <figure class="ampstart-image-fullpage-hero m0 relative mb1">
+    <amp-img width="{{ .Params.hero_image_small_width }}" height="{{ .Params.hero_image_small_height }}" alt="{{ .Title }}" layout="responsive" src="{{ .Params.hero_image_small  | safeHTML }}" media="(max-width: 415px)"></amp-img>
+    <amp-img height="{{ .Params.hero_image_large_height }}" alt="{{ .Title }}" layout="fixed-height" src="{{ .Params.hero_image_large  | safeHTML }}" media="(min-width: 416px)"></amp-img>
+    <figcaption class="absolute top-0 right-0 bottom-0 left-0">
+      <header class="p3">
+        <h1 class="ampstart-fullpage-hero-heading mb3">
+          <span class="ampstart-fullpage-hero-heading-text">
+            {{ .Title }}
+          </span>
+        </h1>
+
+          <span class="ampstart-image-credit h4">
+            By {{ .Params.author }}</a>,<br> {{ .PublishDate.Format "January 2, 2006" }}
+          </span>
+    </header>
+    <footer class="absolute left-0 right-0 bottom-0">
+      <a class="ampstart-readmore py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
+    </footer>
+    </figcaption>
+  </figure>
+  <!-- End Fullpage Hero -->
+  <main id="content">
+    <small><a href="/" class="ml1">Home</a> | <strong>{{ .Title }}</strong></small>
+  <div class="mx4 my2">
+
+    {{ .Content | replaceRE "<p>" "<p class=\"my2 px3\">" | safeHTML }}
+      <amp-carousel id="custom-button"
+  width="700"
+  height="525"
+  layout="responsive"
+  type="slides"
+  autoplay
+  delay="2000">
+  <amp-img src="/{{ .Params.structured_image1 }}.jpg"
+    width="700"
+    height="525"
+    layout="responsive"
+    alt="{{ .Params.image1alttext }}"></amp-img>
+  <amp-img src="/{{ .Params.structured_image2 }}.jpg"
+    width="700"
+    height="525"
+    layout="responsive"
+    alt="{{ .Params.image2alttext }}"></amp-img>
+  <amp-img src="/{{ .Params.structured_image3 }}.jpg"
+    width="700"
+    height="525"
+    layout="responsive"
+    alt="{{ .Params.image3alttext }}"></amp-img>
+  <amp-img src="/{{ .Params.structured_image4 }}.jpg"
+    width="700"
+    height="525"
+    layout="responsive"
+    alt="{{ .Params.image4alttext }}"></amp-img>
+</amp-carousel>
+  </div>
+  </main>
+
+
+    {{- partial "blog-footer.html" . -}}
+
+    {{- partial "analytics.html" . -}}
+
+  </body>
+</html>
