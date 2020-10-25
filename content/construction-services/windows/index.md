@@ -8,13 +8,13 @@ featured_image: 'windows-header.jpg'
 <amp-img class="" src="/windows-header.jpg" width="1920" height="600" alt="Home Window Replacement and Repair Fort Wayne" title="" layout="responsive">
 </amp-img>
 <h1 class="h2 col-10 mx4 pb3 pt3">Windows Replacement and Repair</h1>
-<amp-youtube width="480"
+<!-- <amp-youtube width="480"
   height="270"
   layout="responsive"
   data-param-modestbranding="1"
   data-param-rel="1"
   data-videoid="8FPJaOALjNI">
-</amp-youtube>
+</amp-youtube> -->
 <p class="col-10 mx3 pb1 pt1">Are you tired of your old, cold, drafty windows? Do your windows open hard or not at all? Ready to update your home’s look and comfort with new efficient and attractive replacement windows? We can help!</p>
 <p class="col-10 mx3 pb1 pt1">Whether you want to install a new construction window that replaces the entire frame and sash or go with vinyl replacement windows that gives you new sashes without removing the existing siding or trim, look no further than MidAmerican Construction Management for our expert window installation service!</p>
 <p class="col-10 mx3 pb1 pt1">But how do you decide which option is right for you? Let us take you through the pros and cons of each option so you can make an informed decision about which is best for your home and your family.</p>

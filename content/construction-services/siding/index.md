@@ -8,13 +8,13 @@ featured_image: 'house-siding-header.jpeg'
 <amp-img class="" src="/house-siding-header.jpeg" width="1920" height="700" alt="Best House Siding Solutions Fort Wayne" title="House Siding Solutions by Mid American Construction Management" layout="responsive">
 </amp-img>
 <h1 class="h2 col-10 mx4 pb3 pt3">Siding Construction</h1>
-<amp-youtube width="480"
+<!-- <amp-youtube width="480"
   height="270"
   layout="responsive"
   data-param-modestbranding="1"
   data-param-rel="1"
   data-videoid="lMSUD8CQJI0">
-</amp-youtube>
+</amp-youtube> -->
 <p class="col-10 mx3 pb1 pt1">Are you ready to update the look of your home with new siding? Or maybe your existing siding is rotted or storm damaged? Whether you want new vinyl siding, wood or cement board, or even metal siding, MidAmerican Construction Management is here to help you maximize the appeal of your home with a beautiful exterior upgrade that will wow your neighbors or any potential future buyers!</p>
 <p class="col-10 mx3 pb1 pt1">But which option is right for you and your home?</p>
 <h2 class="h3 col-10 mx4 pb3 pt3">New Vinyl Siding</h2>

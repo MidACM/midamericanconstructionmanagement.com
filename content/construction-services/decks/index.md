@@ -8,13 +8,13 @@ featured_image: 'decks-header.jpg'
 <amp-img class="" src="/decks-header.jpg" width="1920" height="700" alt="Home Deck Solutions in Fort Wayne Indiana" title="Home Deck Solutions in Fort Wayne Indiana" layout="responsive">
 </amp-img>
 <h1 class="h2 col-10 mx4 pb3 pt3">Deck Construction</h1>
-<amp-youtube width="480"
+<!-- <amp-youtube width="480"
   height="270"
   layout="responsive"
   data-param-modestbranding="1"
   data-param-rel="1"
   data-videoid="GdOnNz3FV4s">
-</amp-youtube>
+</amp-youtube> -->
 <h3 class="h4 col-10 mx4 pb3 pt3">A new home deck offers new perspective</h3>
 <p class="col-10 mx3 pb1 pt1">Imagine being able to cook out with your family and neighbors in the comfort of your own backyard with an all new deck! A gorgeous wood deck will allow you to entertain guests and enjoy your backyard like never before. </p>
 <p class="col-10 mx3 pb1 pt1">Mid American Construction Management provides deck installation and replacement services to homeowners in the Fort Wayne region. We can design and build a brand-new deck on your property in less time than you might think. If you just need a few boards replaced on your existing deck, we can tackle your deck replacement project, too.</p>
