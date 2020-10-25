@@ -24,6 +24,8 @@ In this post, we will take a look at both the limitations of winter construction
 
 {{< youtube q0KDGA0P6QQ >}}
 
+<br>
+
 ## Winter Building Limitations
 
 There are some fairly obvious weather related limitations, but also some that might not be so easy to recognize. Here are the major areas to consider.
