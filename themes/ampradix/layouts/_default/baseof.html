@@ -2,15 +2,34 @@
 
 <html ⚡="">
 
+  {{ if eq .Section "our-work" }}
+
+  {{- partial "our-work-head.html" . -}}
+
+  {{ else }}
+
     {{- partial "head.html" . -}}
 
+  {{ end }}
     <body>
+        
+        {{ if eq .Section "our-work" }}
+
+        {{- partial "story-body.html" . -}}
+
+        {{ else }}
 
         {{- partial "header.html" . -}}
+
+        {{ end }}
+
+        {{ if ne .Section "our-work" }}
 
         {{- block "main" . }}{{- end }}
 
         {{- partial "footer.html" . -}}
+
+        {{ end }}
         
 <!--         <amp-install-serviceworker src="../../sw.js" layout="nodisplay" data-iframe-src="../../install-service-worker.html">
     	</amp-install-serviceworker> -->
