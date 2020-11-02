@@ -2,13 +2,19 @@
 title: "New Roof"
 date: 2019-05-15T15:01:13-04:00
 draft: false
-Description: "This project was for a client who had suffered hail damage on their roof. We replaced the entire roof after helping them with their insurance company so it only cost them a their deductible."
+description: "This project was for a client who had suffered hail damage on their roof. We replaced the entire roof after helping them with their insurance company so it only cost them a their deductible."
 featured_image: 'new_roof_fort_wayne_2.jpg'
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+
+posterPortrait: "49.jpeg"
+posterLandscape: "50.jpeg"
+posterSquare: "51.jpeg"
+
+publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">New Residential Roof in Fort Wayne</h1>

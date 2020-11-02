@@ -2,7 +2,14 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-Description: ""
+description: ""
+
+posterPortrait: "49.jpeg"
+posterLandscape: "50.jpeg"
+posterSquare: "51.jpeg"
+
+publisherLogo: "logo.png"
+
 featured_image: ''
 featured_image_width: ''
 featured_image_height: ''

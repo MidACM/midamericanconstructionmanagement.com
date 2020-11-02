@@ -2,13 +2,19 @@
 title: "New Deck"
 date: 2019-05-15T14:02:43-04:00
 draft: false
-Description: "This client has a beautiful, high end home that had an eye sore, the deck. We replaced all the deck boards with new, 100% maintenance free decking and put up new railing with beautiful cast iron spindles. "
+description: "This client has a beautiful, high end home that had an eye sore, the deck. We replaced all the deck boards with new, 100% maintenance free decking and put up new railing with beautiful cast iron spindles. "
 featured_image: 'deck_huntertown_2.jpg'
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+
+posterPortrait: "49.jpeg"
+posterLandscape: "50.jpeg"
+posterSquare: "51.jpeg"
+
+publisherLogo: "logo.png"
 ---
 
 <br>

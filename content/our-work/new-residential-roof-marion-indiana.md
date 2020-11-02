@@ -2,13 +2,19 @@
 title: "New Roof"
 date: 2019-05-15T15:05:17-04:00
 draft: false
-Description: "In this project we completely tore off the old roof and replaced it with lifetime warranty shingles. Before installing the new roof we repaired the rotten decking."
+description: "In this project we completely tore off the old roof and replaced it with lifetime warranty shingles. Before installing the new roof we repaired the rotten decking."
 featured_image: 'new_roof_marion.jpg'
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+
+posterPortrait: "49.jpeg"
+posterLandscape: "50.jpeg"
+posterSquare: "51.jpeg"
+
+publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">New Residential Roof in Marion</h1>
