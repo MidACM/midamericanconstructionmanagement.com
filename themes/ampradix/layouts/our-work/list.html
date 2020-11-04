@@ -15,7 +15,7 @@
     
     <div class="px2 col-12 sm-col-6 md-col-4  ">
       <a href="{{ .URL }}" class=" col-10 text-decoration-none"><h3 class="h3 col-10 mx1  pt3">{{ .Title }}</h3></a>
-      <a href="{{ .URL }}" class=" col-10 mx3 pb1 pt1 text-decoration-none"><amp-img class="" src="/{{ .Params.featured_image  | safeHTML }}" width="640" height="480" alt="{{ .Title }}" title="{{ .Title }}" layout="responsive">
+      <a href="{{ .URL }}" class=" col-10 mx3 pb1 pt1 text-decoration-none"><amp-img class="" src="{{ .Params.featured_image  | safeHTML }}" width="640" height="480" alt="{{ .Title }}" title="{{ .Title }}" layout="responsive">
       </amp-img></a><br><a href="{{ .URL }}" class="ampstart-btn ampstart-btn-secondary caps inline-block mb2  text-decoration-none">View Project</p></a>
     </div>
     {{ end }}
