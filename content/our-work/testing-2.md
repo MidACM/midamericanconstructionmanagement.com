@@ -1,15 +1,14 @@
 +++
 date = 2020-11-04T05:00:00Z
-description = "Lorem ipsum testing meta descriptions."
-draft = true
-featured_image = "/which-roof-is-right-for-me-part-two-1200x1200-1x1.jpg"
-page1Img = "/working-with-contractor-before-you-start-600x900.jpg"
-page2Img = "/house-new-siding.jpeg"
-page3Img = "/window-services-640x360.jpg"
-page4Img = "/which-roof-is-right-for-me-part-two-1200x1200-1x1.jpg"
-page5Img = "/siding_job_leo_2.jpg"
-page6Img = "/siding_job_leo.jpg"
-page7Img = "/working-with-your-contractor-during-construction-600x900.jpg"
+description = "Lorem ipsum testing meta description."
+featured_image = "/working-with-your-contractor-after-construction-1200x1200.jpg"
+page1Img = "/working-with-contractor-before-you-start.jpg"
+page2Img = "/which-roof-is-right-for-me-part-two-1920x1080-16x9.jpg"
+page3Img = "/structured-data-testing-newsarticle.jpg"
+page4Img = "/selecting-a-contractor-part-iv-working-with-your-contractor-736x900.jpg"
+page5Img = "/room-additions-1.jpg"
+page6Img = "/roofing-page-header.jpg"
+page7Img = "/selecting-a-contractor-part-iv-working-with-your-contractor-1200x800-4x3.jpg"
 posterLandscape = "/posterLandscape.jpg"
 posterPortrait = "/posterPortrait.jpg"
 posterSquare = "/posterSquare.jpg"
@@ -28,6 +27,6 @@ solution3 = "Solution #3"
 solution4 = "Solution #4"
 solutionTitle = "New window replacement"
 successTitle = "Happy Client !"
-title = "Testing"
+title = "Testing 2"
 
 +++

@@ -48,4 +48,5 @@ fields:
   name: structured_image3
   label: structured_image3
 pages:
+- content/blog/drafty.md
 - content/blog/testing.md
