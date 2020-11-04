@@ -30,3 +30,8 @@ unsafe= true
   businessZip = "46706"
   # Google Analitycs
   googleAnalitycsID = "UA-106177064-1"
+  publisherLogo = "publisherLogo.jpg"
+  posterPortrait = "posterPortrait.jpg"
+  posterLandscape = "posterLandscape.jpg"
+  posterSquare = "posterSquare.jpg"
+  

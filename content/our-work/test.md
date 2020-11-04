@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Test"
+date: 2020-11-04T10:38:22-05:00
 draft: true
 description: ""
 
@@ -14,14 +14,14 @@ featured_image: "listImage.jpg"
 
 page1Img: "logo.png"
 
-problemTitle: "some problem title"
+problemTitle: "some problem"
 page2Img: "logo.png"
 problem1: "problem one text"
 problem2: "problem two text"
 problem3: "problem three text"
 problem4: "problem four text"
 
-solutionTitle: "some solution title"
+solutionTitle: "some solution"
 page3Img: "logo.png"
 solution1: "solution one text"
 solution2: "solution two text"
