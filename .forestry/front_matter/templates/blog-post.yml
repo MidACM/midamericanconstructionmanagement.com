@@ -47,3 +47,5 @@ fields:
 - type: file
   name: structured_image3
   label: structured_image3
+pages:
+- content/blog/testing.md
