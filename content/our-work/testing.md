@@ -1,12 +1,12 @@
 +++
 date = 2020-11-04T05:00:00Z
 description = "Lorem ipsum testing meta description."
-featured_image = "/wood-window-replacement-and-patio-door-project-01.JPG"
-page1Img = "/wood-window-replacement-and-patio-door-project-01.JPG"
-page2Img = "/our-work-14.jpg"
+featured_image = "/which-roof-is-right-for-me-part-two-1200x1200-1x1.jpg"
+page1Img = "/working-with-contractor-before-you-start-600x900.jpg"
+page2Img = "/house-new-siding.jpeg"
 page3Img = "/window-services-640x360.jpg"
 page4Img = "/which-roof-is-right-for-me-part-two-1200x1200-1x1.jpg"
-page5Img = "/working-with-contractor-before-you-start-1200x1200-1x1.jpg"
+page5Img = "/siding_job_leo_2.jpg"
 page6Img = "/siding_job_leo.jpg"
 page7Img = "/working-with-your-contractor-during-construction-600x900.jpg"
 posterLandscape = "/posterLandscape.jpg"
