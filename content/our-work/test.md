@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2020-11-04T10:38:22-05:00
-draft: true
+draft: false
 description: ""
 
 publisherLogo: "logo.png"
