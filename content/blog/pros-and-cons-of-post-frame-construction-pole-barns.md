@@ -52,5 +52,3 @@ So, which is right for you? Armed with this information, you should be able to m
 
 If you have any further questions, don’t hesitate to contact us. We will be happy to answer any questions you might have.
 
-
-{{< cta >}}

@@ -52,5 +52,3 @@ So what kind of jobs can be readily done in the winter months? More than you mig
 3. Deck refinishing and siding replacement. Replacing old deck boards or vinyl siding can be done in all but the very worst weather. Because this kind of work does not require putting a foundation into the frozen ground or needs to seal in the heat, the winter months can often be a good time to get this kind of work done.
 
 Armed with this information, you can guard yourself against the pitfalls of winter construction projects, as well as take advantage of the potential opportunities that the winter months in the Midwest bring.
-
-{{< cta >}}

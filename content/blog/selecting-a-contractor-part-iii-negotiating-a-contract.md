@@ -69,5 +69,3 @@ Your building contract should always specify the exact dispute resolution method
 Any reputable contractor who wishes to stay in business long term will only resort to arbitration or court to settle a disagreement with a client as the very last resort, and this kind of thing happens less often than is commonly imagined. But it is still important that you know going in exactly what the worst case scenario will be.
 
 Ok, that covers all that! Next time, we will look at the final installment in this series, how to work with your contractor during the actual building process to ensure the best result possible.
-
-{{< cta >}}

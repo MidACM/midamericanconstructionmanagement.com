@@ -39,5 +39,3 @@ In today’s article, we discuss some of the critical things you want to be sure
 2. 
 
          However, NEVER agree to pay money in advance of the previously negotiated schedule, and don’t pay for work that is incomplete or poorly done with promises to “fix it” in the future. It is in both you and your contractor’s interest to only pay for work that is actually complete to the level specified. This takes some common sense on your part of course, as there will always be minor quality control issues such as drywall nicks that occur during the process that your contractor takes care of after the heavy work is done as a matter normal work. But if your contractor asks you for money ahead of the agreed upon schedule, that should be a red flag. If this happens, be all the more sure to require proof of payment on your materials and labor on your project to ensure you don’t end up with a mechanic’s lien on your home. 
-
-{{< cta >}}

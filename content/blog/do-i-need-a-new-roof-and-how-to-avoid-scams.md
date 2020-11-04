@@ -49,4 +49,3 @@ Armed with this knowledge, you can avoid getting scammed by a contractor trying 
 
 Next time, we will discuss your different roofing replacement options and how to choose which one is right for you and your budget.
 
-{{< cta >}}

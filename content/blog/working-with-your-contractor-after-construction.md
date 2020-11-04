@@ -54,4 +54,3 @@ Today we are going to focus on the steps you should take once your project is su
 And you’re done! You can now enjoy your home improvements with peace of mind. 
 
 
-{{< cta >}}

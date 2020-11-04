@@ -38,7 +38,3 @@ In the “old days,” this metal was simply nailed to the framing, which of cou
 Of course, a post frame building can still be finished with asphalt shingles and vinyl or wood siding. It merely requires the application of OSB or plywood over the stringers before installing these products. This will typically result in a modest cost increase, but will still be significantly less expensive than conventional construction methods. 
 
 Hopefully, you now better understand the basics of post frame construction. Up next, the pros and cons of post frame construction compared to conventional construction. 
-
-
-
-{{< cta >}}

@@ -113,7 +113,5 @@ No matter what you choose, the most important factor is making sure you hire a q
 > Our next series of articles will cover a successful process based approach on how to pick a qualified contractor and negotiate a fair contract.
 
 
-{{< cta >}}
-
 
 <em>All links to third party products are for informational purposes only and not an endorsement. Ask your contractor for recommendations for products.</em>

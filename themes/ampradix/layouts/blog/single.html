@@ -64,8 +64,11 @@
     alt="{{ .Params.image4alttext }}"></amp-img>
 </amp-carousel>
   </div>
-  </main>
+  
+    {{- partial "cta.html" . -}}
 
+  </main>
+  
 
     {{- partial "blog-footer.html" . -}}
 

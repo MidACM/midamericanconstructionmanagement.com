@@ -71,4 +71,3 @@ And that’s it! Your project is completed. If you are happy with your work, don
 
 This article concludes our series on “Selecting a Contractor”. 
 
-{{< cta >}}

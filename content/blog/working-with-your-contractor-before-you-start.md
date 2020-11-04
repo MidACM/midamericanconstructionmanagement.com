@@ -59,5 +59,5 @@ Today we will be taking an in depth look at what you should do prior to work act
 
 Follow these steps to prepare for the start of your building project, and you will set yourself up for smooth and hassle free construction and a good relationship with your contractor. Next time, we will discuss the steps you should be taking during the actual construction process itself.
 
-{{< cta >}}
+
 

@@ -65,5 +65,3 @@ If you follow this process, you will successfully be able to receive valid bids 
 
 Evaluating your bids is the topic of our next post!
 
-
-{{< cta >}}

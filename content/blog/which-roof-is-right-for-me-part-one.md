@@ -78,5 +78,3 @@ But if the cost of tear-off is not in the budget, or you don’t want to for one
 
 In our next article of this series, we will take a look specifically at the [different roofing products available and how to choose which is right for you](/blog/which-roof-is-right-for-me-part-two/).
 
-
-{{< cta >}}

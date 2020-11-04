@@ -64,6 +64,3 @@ If one contractor is your preferred, but his price seems a few percentage points
 On our next blog post, we will be discussing how to negotiate a fair contract that adequately protects your interests to make sure your home and wallet are properly protected during the project.
 
 Hope you'll enjoy the next piece!
-
-
-{{< cta >}}

@@ -53,6 +53,3 @@ While these three are among the most common, they are not the only types of scam
 
 Always take the time to be sure that you totally understand what you are getting into and are completely comfortable with your contractor and the project before you sign anything.
 
-
-
-{{< cta >}}
