@@ -14,6 +14,7 @@ posterPortrait: 49.jpeg
 posterLandscape: 50.jpeg
 posterSquare: 51.jpeg
 publisherLogo: logo.png
+draft: true
 
 ---
 <div class="">
