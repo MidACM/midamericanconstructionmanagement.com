@@ -1,20 +1,21 @@
 ---
-title: "New Siding"
-date: 2019-05-15T14:56:41-04:00
-draft: false
-description: "This project was for a repeat client in Leo who was having issues with their wood siding rotting badly in places.  We replaced the wood siding with free cement board siding and trim."
-featured_image: 'siding_job_leo_2.jpg'
+title: New Siding
+date: 2019-05-15T14:56:41.000-04:00
+description: This project was for a repeat client in Leo who was having issues with
+  their wood siding rotting badly in places.  We replaced the wood siding with free
+  cement board siding and trim.
+featured_image: siding_job_leo_2.jpg
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+posterPortrait: 49.jpeg
+posterLandscape: 50.jpeg
+posterSquare: 51.jpeg
+publisherLogo: logo.png
+draft: true
 
-posterPortrait: "49.jpeg"
-posterLandscape: "50.jpeg"
-posterSquare: "51.jpeg"
-
-publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">Residential Siding Job in Leo</h1>

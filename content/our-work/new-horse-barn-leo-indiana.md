@@ -1,25 +1,23 @@
 ---
-title: "New Horse Barn"
-date: 2019-05-15T15:13:53-04:00
-draft: false
-description: ""
-featured_image: 'leo-horse-barn-4.jpg'
+title: New Horse Barn
+date: 2019-05-15T15:13:53.000-04:00
+description: ''
+featured_image: leo-horse-barn-4.jpg
 featured_image_width: ''
 featured_image_height: ''
-structured_image1: 'leo-horse-barn-1.jpg'
-structured_image2: 'leo-horse-barn-2.jpg'
-structured_image3: 'leo-horse-barn-3.jpg'
-structured_image4: 'leo-horse-barn-4.jpg'
-structured_image5: 'leo-horse-barn-5.jpg'
-structured_image6: 'leo-horse-barn-6.jpg'
-structured_image7: 'leo-horse-barn-7.jpg'
-structured_image8: 'leo-horse-barn-8.jpg'
+structured_image1: leo-horse-barn-1.jpg
+structured_image2: leo-horse-barn-2.jpg
+structured_image3: leo-horse-barn-3.jpg
+structured_image4: leo-horse-barn-4.jpg
+structured_image5: leo-horse-barn-5.jpg
+structured_image6: leo-horse-barn-6.jpg
+structured_image7: leo-horse-barn-7.jpg
+structured_image8: leo-horse-barn-8.jpg
+posterPortrait: 49.jpeg
+posterLandscape: 50.jpeg
+posterSquare: 51.jpeg
+publisherLogo: logo.png
 
-posterPortrait: "49.jpeg"
-posterLandscape: "50.jpeg"
-posterSquare: "51.jpeg"
-
-publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">New Horse Barn in Leo, IN</h1>
