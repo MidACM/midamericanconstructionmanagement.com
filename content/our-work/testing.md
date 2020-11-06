@@ -1,6 +1,6 @@
 +++
 date = 2020-11-04T05:00:00Z
-description = "Lorem ipsum testing meta descriptions."
+description = "Lorem ipsum testing meta description."
 draft = true
 featured_image = "/which-roof-is-right-for-me-part-two-1200x1200-1x1.jpg"
 page1Img = "/working-with-contractor-before-you-start-600x900.jpg"
@@ -27,7 +27,7 @@ solution2 = "Solution #2"
 solution3 = "Solution #3"
 solution4 = "Solution #4"
 solutionTitle = "New window replacement"
-successTitle = "Happy Client !"
+successTitle = "Successful project, happy client"
 title = "Testing"
 
 +++
