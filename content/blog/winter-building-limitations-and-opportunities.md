@@ -28,7 +28,7 @@ In this post, we will take a look at both the limitations of winter construction
 
 ## Winter Building Limitations
 
-There are some fairly obvious weather related limitations, but also some that might not be so easy to recognize. Here are the major areas to consider.
+There are some fairly obvious weather related limitations, but also some that might not be easily recognized. Here are the major areas to consider.
 
 1. Replacing windows and exterior doors in the winter is not a problem for your contractor. However, removing a window from your home will make it cold! If your home is typically empty during business hours, this can be a good winter project. But if people are home during the day, this can be an unpleasant experience because of all the cold air and drafts that will be let into your home.
 2. Roofing repair or replacement in the winter can be a real challenge, some years more than others. Certain types of shingles do not seal down well below 45 degrees and can be more prone to blow-offs for a few months if installed in the winter. But snow on your roof will also add additional expense, as this will have to be removed before any work can be done. I always recommend that if there is any question about whether your roof will last the winter, get it done in the fall. Emergency winter roofing can be done, but due to the increased labor costs and risk of blow-offs, should be avoided if possible.

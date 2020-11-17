@@ -1,20 +1,21 @@
 ---
-title: "New Window"
-date: 2019-05-15T15:09:18-04:00
-draft: false
-description: "In this project, the client wanted some sunlight in what felt like a dungeon in one of their rooms.  We installed a double window after some excavating and installing a drain sustem with retaining walls."
-featured_image: 'egress-window-leo-2.jpg'
+title: New Window
+date: 2019-05-15T15:09:18.000-04:00
+description: In this project, the client wanted some sunlight in what felt like a
+  dungeon in one of their rooms.  We installed a double window after some excavating
+  and installing a drain sustem with retaining walls.
+featured_image: egress-window-leo-2.jpg
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+posterPortrait: 49.jpeg
+posterLandscape: 50.jpeg
+posterSquare: 51.jpeg
+publisherLogo: logo.png
+draft: true
 
-posterPortrait: "49.jpeg"
-posterLandscape: "50.jpeg"
-posterSquare: "51.jpeg"
-
-publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">Egress Basement Window in Leo, IN</h1>

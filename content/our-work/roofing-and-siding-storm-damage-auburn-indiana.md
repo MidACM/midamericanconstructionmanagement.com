@@ -1,20 +1,21 @@
 ---
-title: "Storm Damage"
-date: 2019-05-15T13:52:35-04:00
-draft: false
-description: "In this project we replaced all of their shingles with new lifetime warranty shingles, put in 10-year warranty windows, and replaced all of their siding with new 30-year warranty siding."
-featured_image: 'auburn-roofing-project-1.jpg'
+title: Storm Damage
+date: 2019-05-15T13:52:35.000-04:00
+description: In this project we replaced all of their shingles with new lifetime warranty
+  shingles, put in 10-year warranty windows, and replaced all of their siding with
+  new 30-year warranty siding.
+featured_image: auburn-roofing-project-1.jpg
 featured_image_width: ''
 featured_image_height: ''
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+posterPortrait: 49.jpeg
+posterLandscape: 50.jpeg
+posterSquare: 51.jpeg
+publisherLogo: logo.png
+draft: true
 
-posterPortrait: "49.jpeg"
-posterLandscape: "50.jpeg"
-posterSquare: "51.jpeg"
-
-publisherLogo: "logo.png"
 ---
 <br>
 <h1 class="h2 col-10 mx4 pb3 pt3">Residential Siding and Roofing for Storm Damage in Auburn

@@ -1,20 +1,21 @@
 ---
-title: "Roof and Gutters"
-date: 2019-05-15T13:51:00-04:00
-draft: false
-description: "This home suffered hail damage so badly the roof actually started leaking.  They got an all new roof, new gutters and gutter guards, and their water damaged ceilings spot repaired."
-featured_image: 'our-work-carousel-4.jpg'
-featured_image_width: '1200'
-featured_image_height: '563'
+title: Roof and Gutters
+date: 2019-05-15T13:51:00.000-04:00
+description: This home suffered hail damage so badly the roof actually started leaking.  They
+  got an all new roof, new gutters and gutter guards, and their water damaged ceilings
+  spot repaired.
+featured_image: our-work-carousel-4.jpg
+featured_image_width: "1200"
+featured_image_height: "563"
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+posterPortrait: 49.jpeg
+posterLandscape: 50.jpeg
+posterSquare: 51.jpeg
+publisherLogo: logo.png
+draft: true
 
-posterPortrait: "49.jpeg"
-posterLandscape: "50.jpeg"
-posterSquare: "51.jpeg"
-
-publisherLogo: "logo.png"
 ---
 <div class="">
 <br>
@@ -44,5 +45,3 @@ publisherLogo: "logo.png"
 </p>
 </div>
 {{< cta >}}
-
-
