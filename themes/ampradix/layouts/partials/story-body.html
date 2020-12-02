@@ -29,7 +29,7 @@
             <h2 class='smjuo pa' id='rzpdsrpfqx' >MIDAMERICAN<br>CONSRUCTION MANAGEMENT</h2>
             <!-- rzpdsrpfqx ENDS HERE -->
             <!-- THE PROBLEM STARTS HERE -->
-            <h1 class='ghktj pa' id='eflurroyuo' >{{ .Title | truncate 21 }}</h1>
+            <h1 class='ghktj pa' id='eflurroyuo' >{{ .Title }}</h1>
             <!-- THE PROBLEM ENDS HERE --></div>
             <!-- group1 ENDS HERE -->
          </amp-story-grid-layer>
@@ -89,16 +89,16 @@
             <div class='gmzwc pa svg-el' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='fyrnsrbgqr' animate-in-delay='100ms' id='xsyzuptntl' ><svg  preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><path d="M5.7,5.7H494.3V494.3H5.7V5.7Z" fill="#000"></path></svg></div>
             <!-- svg_1 ENDS HERE -->
             <!-- &gt; Client couldn't update<br> STARTS HERE -->
-            <p class='qnetx pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='ifvlbzpizi' animate-in-delay='200ms' id='kacbrssztw' >&gt; {{ .Params.solution1 }}<br></p>
+            {{ with .Params.solution1 }}<p class='qnetx pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='ifvlbzpizi' animate-in-delay='200ms' id='kacbrssztw' ><span style="font-size: 25px;">&gt;&nbsp;</span>  {{ . }}<br></p>{{ end }}
             <!-- &gt; Client couldn't update<br> ENDS HERE -->
             <!-- <span style="font-size: 25px;">&gt; No motorcycles listed</span> STARTS HERE -->
-            <p class='faldg pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='kacbrssztw' animate-in-delay='100ms' id='xaavxihoke' ><span style="font-size: 25px;">&gt;&nbsp;</span>{{ .Params.solution2 }}</p>
+            {{ with .Params.solution2 }}<p class='faldg pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='kacbrssztw' animate-in-delay='100ms' id='xaavxihoke' ><span style="font-size: 25px;">&gt;&nbsp;</span> {{ . }}</p>{{ end }}
             <!-- <span style="font-size: 25px;">&gt; No motorcycles listed</span> ENDS HERE -->
             <!-- <span style="font-size: 25px;">&gt; Little to no traffic</span> STARTS HERE -->
-            <p class='ciawl pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='xaavxihoke' animate-in-delay='100ms' id='wpudiwkvza' ><span style="font-size: 25px;">&gt;&nbsp;</span>{{ .Params.solution3 }}</p>
+            {{ with .Params.solution3 }}<p class='ciawl pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='xaavxihoke' animate-in-delay='100ms' id='wpudiwkvza' ><span style="font-size: 25px;">&gt;&nbsp;</span> {{ . }}</p>{{ end }}
             <!-- <span style="font-size: 25px;">&gt; Little to no traffic</span> ENDS HERE -->
             <!-- <span style="font-size: 25px;">&gt; No discernible&nbsp;</span><span style="">website&nbsp;</span><span style="font-size: 25px;">ROI</span> STARTS HERE -->
-            <p class='moyps pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='wpudiwkvza' animate-in-delay='100ms' id='zqcduhidwa' ><span style="font-size: 25px;">&gt;&nbsp;</span>{{ .Params.solution4 }}</p>
+            {{ with .Params.solution4 }}<p class='moyps pa' animate-in='fade-in' animate-in-duration='500ms' animate-in-after='wpudiwkvza' animate-in-delay='100ms' id='zqcduhidwa' ><span style="font-size: 25px;">&gt;&nbsp;</span> {{ . }}</p>{{ end }}
             <!-- <span style="font-size: 25px;">&gt; No discernible&nbsp;</span><span style="">website&nbsp;</span><span style="font-size: 25px;">ROI</span> ENDS HERE -->
          </amp-story-grid-layer>
       
