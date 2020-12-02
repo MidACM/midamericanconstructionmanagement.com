@@ -54,30 +54,30 @@ fields:
   label: problem1
   config:
     max: 24
-    required: true
+    required: false
 - type: text
   name: problem2
   label: problem2
   config:
     max: 24
-    required: true
+    required: false
 - type: text
   name: problem3
   label: problem3
   config:
     max: 24
-    required: true
+    required: false
 - type: text
   name: problem4
   label: problem4
   config:
-    required: true
+    required: false
     max: 24
 - type: text
   name: solutionTitle
   label: solutionTitle
   config:
-    required: true
+    required: false
     max: 18
 - type: file
   name: page3Img
@@ -87,30 +87,30 @@ fields:
   label: solution1
   config:
     max: 24
-    required: true
+    required: false
 - type: text
   name: solution2
   label: solution2
   config:
-    required: true
+    required: false
     max: 24
 - type: text
   name: solution3
   label: solution3
   config:
     max: 24
-    required: true
+    required: false
 - type: text
   name: solution4
   label: solution4
   config:
-    required: true
+    required: false
     max: 24
 - type: text
   name: successTitle
   label: successTitle
   config:
-    required: true
+    required: false
     max: 24
 - type: file
   name: page4Img
@@ -128,7 +128,7 @@ fields:
   name: reviewSummary
   label: reviewSummary
   config:
-    required: true
+    required: false
     max: 135
 - type: file
   name: page5Img
@@ -138,7 +138,7 @@ fields:
   label: projectSpecs
   config:
     max: 135
-    required: true
+    required: false
 - type: file
   name: page6Img
   label: page6Img
