@@ -11,8 +11,11 @@ posterLandscape: "50.jpg"
 posterSquare: "51.jpg"
 
 featured_image: "listImage.jpg"
+featured_imagePortrait: "listImage.jpg"
+featured_imageSquare: "listImage.jpg"
 
 page1Img: "logo.png"
+page1Vid: "testing.mp4"
 
 problemTitle: "some problem title"
 page2Img: "logo.png"

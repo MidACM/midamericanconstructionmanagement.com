@@ -9,11 +9,13 @@
 
    <title>{{ .Params.Title }}</title>
    <script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+   <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+
 
 
    <link rel="shortcut icon" href="assets/18.png" type="image/x-icon">
 
-   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"{{ .Permalink  }}"},"headline":"{{ .Params.Title }}","description":"{{ .Params.description }}","datePublished":"10/27/2020","dateModified":"10/27/2020","image":{"@type":"ImageObject","url":"https://storage.googleapis.com/makestories-202705.appspot.com/Yp11ili263Z7cgJF2co58kpUjDN2/rash-cultured-stone-ms-nircfiwazv.jpg","width":"1280","height":"1920"},"author":{"@type":"Organization","name":"Jerome Graber"},"publisher":{"@type":"Organization","name":"{{ .Params.Title }}","logo":{"@type":"ImageObject","url":"assets/18.png","width":100,"height":100}}}</script>
+   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"{{ .Permalink  }}"},"headline":"{{ .Params.Title }}","description":"{{ .Params.description }}","datePublished":"10/27/2020","dateModified":"10/27/2020","image":{"@type":"ImageObject","url":"https://midamericanconstructionmanagement.com{{ .Params.featured_imageSquare  }}"","width":"1280","height":"1920"},"author":{"@type":"Organization","name":"Jerome Graber"},"publisher":{"@type":"Organization","name":"{{ .Params.Title }}","logo":{"@type":"ImageObject","url":"assets/18.png","width":100,"height":100}}}</script>
 
    <meta property="og:url" content="{{ .Permalink }}" />
    <meta property="twitter:site" content="@MidAmericanCons" />
@@ -27,8 +29,8 @@
    <meta property="twitter:description" content="{{ .Params.description }}" />
    <meta property="og:published_time" content="2020-10-27T00:00:00.000Z" />
    <meta property="og:modified_time" content="2020-10-27T00:00:00.000Z" />
-   <meta property="twitter:image" content="https://storage.googleapis.com/makestories-202705.appspot.com/Yp11ili263Z7cgJF2co58kpUjDN2/rash-cultured-stone-ms-nircfiwazv.jpg" />
-   <meta property="og:image:url" content="https://storage.googleapis.com/makestories-202705.appspot.com/Yp11ili263Z7cgJF2co58kpUjDN2/rash-cultured-stone-ms-nircfiwazv.jpg" />
+   <meta property="twitter:image" content="https://midamericanconstructionmanagement.com{{ .Params.featured_imageSquare | safeHTML }}" />
+   <meta property="og:image:url" content="https://midamericanconstructionmanagement.com{{ .Params.featured_imageSquare  | safeHTML  }}" />
    <meta property="og:image:width" content="1280" />
    <meta property="og:image:height" content="1920" />
    <meta name="twitter:card" content="summary_large_image" />
@@ -89,10 +91,10 @@
       color : #fff;
       font-family : "Open Sans";
       font-size : 1.61em;
-      font-weight : 800;
+      font-weight : 600;
       left : 0.27%;
       letter-spacing : 0.04em;
-      line-height : 2.6em;
+      line-height : 2.4em;
       padding : -1px 0px 0px 0px;
       text-align : center;
       top : 0.00%;
@@ -341,12 +343,12 @@
    .eitbh{
       background : #000;
       color : #fff;
-      font-family : "Open Sans";
-      font-size : 2.13em;
-      font-weight : 700;
+      font-family : "Roboto Condensed";
+      font-size : 2em;
+      font-weight : 500;
       left : 0.00%;
       letter-spacing : 0.15em;
-      line-height : 3em;
+      line-height : 1.2em;
       opacity : 100%;
       text-align : center;
       text-transform : uppercase;

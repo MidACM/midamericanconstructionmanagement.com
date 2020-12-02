@@ -1,11 +1,22 @@
     
-   <amp-story standalone poster-portrait-src="../../{{ .Site.Params.posterPortrait }}" publisher-logo-src="../../{{ .Site.Params.publisherLogo }}" publisher="{{ .Site.Params.businessName }}" title="{{ .Title }}" poster-landscape-src="../../{{ .Site.Params.posterLandscape }}" poster-square-src="../../{{ .Site.Params.posterSquare }}"    >
+   <amp-story standalone poster-portrait-src="../../{{ .Params.featured_imagePortrait }}" publisher-logo-src="../../publisherLogo.jpg" publisher="{{ .Site.Params.businessName }}" title="{{ .Title }}" poster-landscape-src="../../{{ .Params.featured_image }}" poster-square-src="../../{{ .Params.featured_imageSquare }}"    >
 
       <!-- PAGE 1 STARTS HERE -->
       <amp-story-page id="pqqwhtlhcr" class="pqqwhtlhcr ms-st-pg"  >
          <!-- PAGE BACKGROUND LAYER (pqqwhtlhcr) -->
          <amp-story-grid-layer template="fill" class="pbjabdyp">
-            <amp-img width='720' height='1280' layout='responsive' class='pbjabdy' id='pqqwhtlhcr-bg' src='../../{{ .Params.page1Img }}' alt='Mid American Construction Management Project Success Story Image 1' ></amp-img>
+            {{ with .Params.page1Img }}
+
+            <amp-img width='720' height='1280' layout='responsive' class='pbjabdy' id='pqqwhtlhcr-bg' src='../../{{ . }}' alt='Mid American Construction Management Project Success Story Image 1' ></amp-img>
+
+            {{ else }}
+
+            <amp-video class="pbdvdhw" layout="responsive" width="720" height="1280" poster="{{ .Params.featured_image }}" autoplay title="" id="pbvpqqwhtlhcr">
+                    <source src="{{ .Params.page1Vid }}" type="video/mp4">
+            </amp-video>
+
+            {{ end }}
+
          </amp-story-grid-layer>
          <!-- PAGE BACKGROUND LAYER (pqqwhtlhcr) ENDS -->
          <amp-story-grid-layer template="vertical" id="ocdpp" class="scrim">
@@ -18,7 +29,7 @@
             <h2 class='smjuo pa' id='rzpdsrpfqx' >MIDAMERICAN<br>CONSRUCTION MANAGEMENT</h2>
             <!-- rzpdsrpfqx ENDS HERE -->
             <!-- THE PROBLEM STARTS HERE -->
-            <h1 class='ghktj pa' id='eflurroyuo' >PROJECT SUCCESS STORY</h1>
+            <h1 class='ghktj pa' id='eflurroyuo' >{{ .Title | truncate 21 }}</h1>
             <!-- THE PROBLEM ENDS HERE --></div>
             <!-- group1 ENDS HERE -->
          </amp-story-grid-layer>
@@ -44,16 +55,16 @@
             <div class='ttuyg pa svg-el' animate-in='fade-in' animate-in-duration='500ms' animate-in-delay='100ms' id='rrakaknuoc' ><svg  preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><path d="M5.7,5.7H494.3V494.3H5.7V5.7Z" fill="#000"></path></svg></div>
             <!-- svg_1 ENDS HERE -->
             <!-- This is a paragraph (p) STARTS HERE -->
-            <p class='mhqid pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='otqvxnldps' animate-in-delay='200ms' id='xohmqbjcvx' >&gt; {{ .Params.problem1 }}<br></p>
+            {{ with .Params.problem1 }}<p class='mhqid pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='otqvxnldps' animate-in-delay='200ms' id='xohmqbjcvx' >&gt; {{ . }} <br></p>{{ end }}
             <!-- This is a paragraph (p) ENDS HERE -->
             <!-- This is a paragraph (p) STARTS HERE -->
-            <p class='nylst pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='xohmqbjcvx' animate-in-delay='100ms' id='edyfgqkcar' >&gt; {{ .Params.problem2 }}<br></p>
+            {{ with .Params.problem2 }}<p class='nylst pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='xohmqbjcvx' animate-in-delay='100ms' id='edyfgqkcar' >&gt; {{ . }} <br></p>{{ end }}
             <!-- This is a paragraph (p) ENDS HERE -->
             <!-- This is a paragraph (p)_Copy1 STARTS HERE -->
-            <p class='dpsut pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='edyfgqkcar' animate-in-delay='100ms' id='bmusnrzwac' >&gt; {{ .Params.problem3 }}<br></p>
+            {{ with .Params.problem3 }}<p class='dpsut pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='edyfgqkcar' animate-in-delay='100ms' id='bmusnrzwac' >&gt; {{ . }} <br></p>{{ end }}
             <!-- This is a paragraph (p)_Copy1 ENDS HERE -->
             <!-- This is a paragraph (p)_Copy STARTS HERE -->
-            <p class='xqkaq pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='bmusnrzwac' animate-in-delay='100ms' id='kafxwgcypq' >&gt; {{ .Params.problem4 }}<br></p>
+            {{ with .Params.problem4 }}<p class='xqkaq pa' animate-in='whoosh-in-right' animate-in-duration='500ms' animate-in-after='bmusnrzwac' animate-in-delay='100ms' id='kafxwgcypq' >&gt; {{ . }} <br></p>{{ end }}
             <!-- This is a paragraph (p)_Copy ENDS HERE -->
          </amp-story-grid-layer>
       
@@ -205,7 +216,7 @@
             <!-- image_1 ENDS HERE -->
          </amp-story-grid-layer>
          <amp-story-cta-layer>
-            <a class='pxuin pa cta-a' href='https://midamericanconstructionmanagement.com/' id='mvxodailos' data-vars-ctalink='https://midamericanconstructionmanagement.com/' ><span>DISCUSS YOUR PROJECT</span></a>
+            <a class='pxuin pa cta-a' href='https://midamericanconstructionmanagement.com/contact' id='mvxodailos' data-vars-ctalink='https://midamericanconstructionmanagement.com/contact' ><span>DISCUSS YOUR PROJECT</span></a>
          </amp-story-cta-layer>
       
       </amp-story-page>
