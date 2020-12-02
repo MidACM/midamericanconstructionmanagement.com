@@ -4,12 +4,6 @@ date: {{ .Date }}
 draft: true
 description: ""
 
-publisherLogo: "logo.png"
-
-posterPortrait: "49.jpg"
-posterLandscape: "50.jpg"
-posterSquare: "51.jpg"
-
 featured_image: "listImage.jpg"
 featured_imagePortrait: "listImage.jpg"
 featured_imageSquare: "listImage.jpg"
