@@ -1,0 +1,31 @@
++++
+date = 2020-12-02T05:00:00Z
+description = "Lorem ipsum testing meta description. Lorem ipsum testing meta description. Lorem ipsum testing meta description lorem"
+featured_image = "/working-with-contractor-before-you-start-1920x1080-16x9.jpg"
+featured_imagePortrait = "/working-with-contractor-before-you-start-600x900.jpg"
+featured_imagesquare = "/working-with-contractor-before-you-start-1200x1200-1x1.jpg"
+page1Img = "/which-roof-is-right-for-me-part-two-600x900.jpg"
+page1vid = ""
+page2Img = "/post-frame-construction-header-600x900.jpg"
+page3Img = ""
+page4Img = "/selecting-a-contractor-part-iv-working-with-your-contractor-736x900.jpg"
+page5Img = "/facebook-album-314083685804225/photos_and_videos/MobileUploads_oDSFy-9Y3A/43554487_333982650480995_971743574854991872_n_333982647147662.jpg"
+page6Img = "/working-with-your-contractor-during-construction-600x900.jpg"
+page7Img = "/house-siding-2.jpg"
+problem1 = "Problem guy 1"
+problem2 = "Problem guy 2"
+problem3 = "Problem guy 3"
+problem4 = "Problem guy 4"
+problemTitle = "Problem title guy"
+projectSpecs = "On this job, we took out the old window and put in a new one."
+reviewSummary = "Our new barn by MidAmerican Construction Management has dramatically improved function and made wife happy..."
+reviewdate = 2020-12-02T05:00:00Z
+solution1 = "Solution #1"
+solution2 = "Solution #2"
+solution3 = "Solution #3"
+solution4 = "Solution #4"
+solutionTitle = "Solution title guy"
+successTitle = "Success title guy"
+title = "Pole Barn Auburn"
+
++++
