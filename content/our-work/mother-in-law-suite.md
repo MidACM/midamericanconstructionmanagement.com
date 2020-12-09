@@ -1,0 +1,32 @@
++++
+date = 2020-12-09T05:00:00Z
+description = "Finishing your basement for your mother?  She took care of you, when you want to take care of her - call Mid American Construction Management - we got you."
+draft = true
+featured_image = "/story2-img5--1125201201_HDR.jpg"
+featured_imagePortrait = "/story2-img5--1125201201_HDR.jpg"
+featured_imagesquare = "/story2-img5--1125201201_HDR.jpg"
+page1Img = "/story2-img-1202201029.jpg"
+page1vid = ""
+page2Img = ""
+page3Img = ""
+page4Img = ""
+page5Img = "/story2-img5--1125201201_HDR.jpg"
+page6Img = "/story2-img6--1125201204.jpg"
+page7Img = "/story2-img7--1204201045a.jpg"
+problem1 = "Finish private suite"
+problem2 = "Kitchenette for meals"
+problem3 = "Wheelchair accessible"
+problem4 = "Roll in shower/bench"
+problemTitle = "Mother Getting Old"
+projectSpecs = ""
+reviewSummary = ""
+reviewdate = ""
+solution1 = ""
+solution2 = ""
+solution3 = ""
+solution4 = ""
+solutionTitle = ""
+successTitle = ""
+title = "Mother in Law Suite"
+
++++

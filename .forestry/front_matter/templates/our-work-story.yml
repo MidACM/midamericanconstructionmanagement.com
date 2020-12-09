@@ -146,5 +146,6 @@ fields:
   name: page7Img
   label: page7Img
 pages:
+- content/our-work/mother-in-law-suite.md
 - content/our-work/our-work-testing.md
 - content/our-work/pole-barn-success-story.md
