@@ -9,11 +9,15 @@ sections:
   label: Our work
   create: all
   match: "**/*"
+  templates:
+  - our-work-story
 - type: directory
   path: content/blog
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 upload_dir: static
 public_path: ''
 front_matter_path: ''
