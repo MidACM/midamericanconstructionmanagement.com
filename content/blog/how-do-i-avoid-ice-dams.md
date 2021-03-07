@@ -31,6 +31,6 @@ list
   * blah 3
   * blah 4
 
-<amp-img src="/construction-project-management-2-2.jpg" alt="pic of ice dam" title="pic of ice dam" class="my4" layout="responsive" width=" 2 " height="1"></amp-img>
+<amp-img src="construction-project-management-2-2.jpg" alt="pic of ice dam" title="pic of ice dam" class="my4" layout="responsive" width=" 2 " height="1"></amp-img>
 
 <amp-youtube width="480" height="270" layout="responsive" data-param-modestbranding="1" data-param-rel="1" data-videoid="LMmeVLlOgwU"> </amp-youtube>
