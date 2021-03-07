@@ -39,6 +39,8 @@ fields:
 - type: text
   name: author
   label: author
+  default: Jerome Graber
+  hidden: true
 - type: file
   name: featured_image
   label: featured_image
