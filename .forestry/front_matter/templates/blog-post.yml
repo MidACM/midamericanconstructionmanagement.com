@@ -11,6 +11,10 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: true
+  config:
+    required: false
+  default: now
 - type: textarea
   name: Description
   label: Description
