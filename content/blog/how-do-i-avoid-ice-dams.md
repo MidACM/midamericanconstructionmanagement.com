@@ -2,6 +2,7 @@
 Description = "how to keep ice dams from causing leaks"
 author = "Jerome Graber"
 date = 2021-03-07T20:02:16Z
+draft = true
 featured_image = "/img_5325-1Square.JPG"
 featured_image_height = "1800"
 featured_image_width = "3219"
