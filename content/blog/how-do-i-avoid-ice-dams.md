@@ -29,4 +29,12 @@ list
 
 * blah
 * blah 2
-* blah 3<amp-img src="/{{ index .Params 0 }}" alt="{{ index .Params 1 }}" title="{{ index .Params 1 }}" class="my4" layout="responsive" width="{{ index .Params 2 }}" height="{{ index .Params 3 }}"></amp-img>
+  * blah 3<amp-img src="/story2-img6--1125201204.jpg" alt="pic of ice dam" title="pic of ice dam" class="my4" layout="responsive" width=" 2 " height="1"></amp-img>
+
+<amp-youtube width="480"
+height="270"
+layout="responsive"
+data-param-modestbranding="1"
+data-param-rel="1"
+data-videoid="LMmeVLlOgwU&t=42s">
+</amp-youtube>
