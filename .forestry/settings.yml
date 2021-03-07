@@ -7,14 +7,14 @@ sections:
 - type: directory
   path: content/our-work
   label: Our work
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - our-work-story
 - type: directory
   path: content/blog
   label: Blog
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - blog-post
