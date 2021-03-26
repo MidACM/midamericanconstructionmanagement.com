@@ -12,12 +12,12 @@ fields:
   label: title
   config:
     max: 21
-    required: false
+    required: true
 - type: text
   name: description
   label: description
   config:
-    required: false
+    required: true
     max: 155
 - type: file
   name: featured_image
